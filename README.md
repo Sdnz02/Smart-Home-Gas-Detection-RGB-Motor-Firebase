@@ -84,7 +84,7 @@ The wiring diagram is provided in `Homework-4_Fritzing.fzz` and shows:
 
 ---
 
-## Demo Video
+## Demo Video (https://youtu.be/ET55Dop-mqg?feature=shared)
 
 All functionalities are demonstrated in the project video:
 - Line-by-line code explanation
